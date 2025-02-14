@@ -1,8 +1,22 @@
-# React + Vite
+# Calculator Builder by Neeraj
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Calculator Builder** is an interactive web application that allows users to build custom calculators using a drag-and-drop interface. Developed using **React** and styled with **Tailwind CSS**, this project provides a smooth and easy-to-use experience for creating functional calculators.
 
-Currently, two official plugins are available:
+**Live Demo:** [calculator-builder-by-neeraj.netlify.app](https://calculator-builder-by-neeraj.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+- Drag-and-drop functionality for building calculators.
+- Fully customizable calculator components.
+- Real-time functionality with a responsive UI.
+- Built using **React** and **Tailwind CSS**.
+- **Dark/Light Mode** option for a customizable theme.
+  
+## Dark/Light Mode
+The app provides an option to switch between dark and light themes for a better user experience, especially in different lighting conditions. The theme preference is saved, so it persists across sessions.
+
+## Installation
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/neeraj-bn/calculator-builder.git
